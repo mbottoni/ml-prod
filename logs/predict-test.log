@@ -1,0 +1,6 @@
+unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
+0935891b-1380-43d2-ba2b-9564e0bd6717,1716080494.4720771,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
+8cad2bb7-6ac3-4bff-bad3-f44826436c9c,1716080494.4721751,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
+da15136d-80d1-4423-baa4-4d076398b009,1716080496.593614,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+971bb5ba-f0a6-4f6e-8828-530b7bf06994,1716080496.593812,1.0,None,"['singapore', 42, 'aavail_premium', 17]",0.1,000:00:00
+0a0cd3a8-e6e9-441d-bd6e-eaf814ffe8f5,1716080496.593936,0.0,None,"['united_states', 20, 'aavail_basic', 14]",0.1,000:00:00
